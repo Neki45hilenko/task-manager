@@ -1,10 +1,10 @@
-# Nuxt Minimal Starter
+# Ежедневник
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Приложение-ежедневник, в котором вы можете создавать, удалять и фильтровать свои задачи на день.
 
-## Setup
+## Установка
 
-Make sure to install dependencies:
+Необходимо установить зависимости:
 
 ```bash
 # npm
@@ -20,7 +20,7 @@ yarn install
 bun install
 ```
 
-## Development Server
+## Локальный сервер:
 
 Start the development server on `http://localhost:3000`:
 
@@ -38,9 +38,9 @@ yarn dev
 bun run dev
 ```
 
-## Production
+## Продакшн
 
-Build the application for production:
+Собрать приложение для продакшна:
 
 ```bash
 # npm
@@ -55,21 +55,3 @@ yarn build
 # bun
 bun run build
 ```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
