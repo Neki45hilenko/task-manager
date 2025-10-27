@@ -20,9 +20,9 @@ yarn install
 bun install
 ```
 
-## Локальный сервер:
+## Локальный сервер
 
-Start the development server on `http://localhost:3000`:
+Запустите сервер разработки на `http://localhost:3000`
 
 ```bash
 # npm
